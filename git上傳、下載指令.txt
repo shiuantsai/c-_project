@@ -1,0 +1,7 @@
+upload
+git add . 
+git commit -m "註解"
+git push
+
+download
+git pull
